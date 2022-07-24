@@ -5,7 +5,7 @@ Containerise your Bun apps with Docker! This is an unofficial docker image repos
 ## Example Dockerfile
 
 ```Dockerfile
-FROM otterlord/bun:alpine
+FROM ghcr.io/theotterlord/bun:alpine
 
 WORKDIR /app
 
